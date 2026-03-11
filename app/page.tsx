@@ -4,19 +4,19 @@ const docs = [
   {
     title: "Whitepaper",
     body: "The protocol thesis, positioning, and high-level design for AnchorChain.",
-    href: "https://github.com/dutraa/anchorchain/blob/main/docs/whitepaper.md",
+    href: "https://github.com/dutraa/anchorchain/docs/whitepaper.md",
     cta: "Read whitepaper",
   },
   {
     title: "Quickstart Guide",
     body: "Run locally, create chains, append entries, and inspect receipts step by step.",
-    href: "https://github.com/dutraa/anchorchain/blob/main/docs/quickstart.md",
+    href: "https://github.com/dutraa/anchorchain/docs/quickstart.md",
     cta: "Open quickstart",
   },
   {
     title: "Architecture",
     body: "A technical overview of chains, entries, anchoring, receipts, and the security model.",
-    href: "https://github.com/dutraa/anchorchain/blob/main/docs/architecture.md",
+    href: "https://github.com/dutraa/anchorchain/docs/architecture.md",
     cta: "View architecture",
   },
 ];
